@@ -1,0 +1,11 @@
+BSD	3-clause BSD License
+BSD	2-clause BSD License
+BSD	1-clause BSD License
+BSD	0-clause BSD license
+BSD	BSD-3-Clause-LBNL
+BSD	BSD+Patent (BSD-2-Clause-Patent)
+GNU	GNU Affero General Public License version 3 (AGPL-3.0)
+GNU	GNU General Public License version 2 (GPL-2.0)
+GNU	GNU General Public License version 3 (GPL-3.0)
+GNU	GNU Lesser General Public License version 2.1 (LGPL-2.1)
+GNU	GNU Lesser General Public License version 3 (LGPL-3.0)
